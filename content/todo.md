@@ -31,7 +31,7 @@
 - A browser extension that restricts the amount of tabs
 - A solo roleplaying app
 - [~~an easy to understand webapp for sending and receiving sensitive data using twmporary PGP keys~~](https://sendpasswords.net)
-- a virtal pet
+- a virtual pet
 - a game where you learn to build a common language with an alien
 - [~~A filtered version of HackerNews that only shows positive news~~](https://github.com/garritfra/positive_hackernews)
 - An RSS proxy that filters out negative content
